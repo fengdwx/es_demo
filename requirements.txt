@@ -1,4 +1,4 @@
-Django==2.2.7
+Django==2.2.13
 django-haystack==2.8.1
 djangorestframework==3.10.3
 djangorestframework-stubs==1.0.0
